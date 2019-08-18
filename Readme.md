@@ -1,0 +1,1 @@
+Lombok exercise for Udemy Maven guru.
